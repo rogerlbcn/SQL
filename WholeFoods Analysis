@@ -1,7 +1,7 @@
 /*
 Written by Roger Lopez Benet. All rights reserved. 
-Script Introduction: Data on Wholefood's products sold on their San Francisco's SOMA store were randomly samppled, then gathered and put into a newly built database.
-The purpose of this assignment was to determain whether "healthier foods" costs less. 
+Script Introduction: Data on Wholefood's products sold in their San Francisco SOMA store were randomly sampled, then gathered and put into a newly built database.
+The purpose of this assignment was to determine whether "healthier foods" cost less. 
 */
 
 USE fmban_sql_analysis;
